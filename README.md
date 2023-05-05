@@ -1,1 +1,2 @@
-# Dimensional Analysis-2
+# Dimensional Analysis
+By Qianhao Xiao
