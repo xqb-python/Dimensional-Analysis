@@ -1,0 +1,3 @@
+{'Population Info': {'Type': 'Population', 'Population Encoding:': 'RI', 'Population ChromNum': 1, 'Population Field:': array([[-2., -2., -2., -2.],
+       [ 2.,  2.,  2.,  2.],
+       [ 1.,  1.,  1.,  1.]]), 'Population size:': 400}}

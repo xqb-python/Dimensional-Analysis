@@ -1,0 +1,2 @@
+{'name': 'soea quick start demo', 'M': 1, 'maxormins': array([-1]), 'Dim': 4, 'varTypes': array([1, 1, 1, 1]), 'lb': array([-2, -2, -2, -2]), 'ub': array([2, 2, 2, 2]), 'borders': array([[1, 1, 1, 1],
+       [1, 1, 1, 1]])}
