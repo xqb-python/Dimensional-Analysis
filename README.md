@@ -5,7 +5,7 @@ By Qianhao Xiao（肖千豪，https://www.researchgate.net/profile/Qianhao-Xiao-
   
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
 
-Our article 'Dimensional Analysis of Hydrogen Knudsen Compressor' has been accepted by international hydrogen energy journals. If you have referred to the algorithm in this study, you can refer to our article. Thank you very much.
+Our article 'Dimensional Analysis of Hydrogen Knudsen Compressor' has online in International Journal of Hydrogen Energy. If you have referred to the algorithm in this study, you can refer to our article (https://doi.org/10.1016/j.ijhydene.2023.05.051). Thank you very much.
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
 
